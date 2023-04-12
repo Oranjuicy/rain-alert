@@ -7,9 +7,6 @@ MY_LONG = 17.990530
 
 # Twilio
 
-account_sid = "AC1ac67c0503e2c9b8d1c21f47ce7d49c4"
-auth_token = "ccd2a304c3c0e68b89e05167af07e7f1"
-
 
 api_key = "416c5295f4cf7096c9600b01f18fae04"
 OWM_Endpoint = "https://api.openweathermap.org/data/2.8/onecall"
